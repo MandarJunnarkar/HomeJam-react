@@ -1,0 +1,47 @@
+{
+    "elements":[
+        {
+            "icon": "heart",
+            "title": "0",
+            "label": "Label"
+        },
+        {
+            "icon": "calendar2",
+            "title": "0",
+            "label": "Label"
+        },
+        {
+            "icon": "calendar2",
+            "title": "0",
+            "label": "Label"
+        },
+        {
+            "icon": "calendar2",
+            "title": "0",
+            "label": "Label"
+        }
+    ],
+    
+    "upcomingShows":[
+        {
+            "image": "benny.png",
+            "label":"folk",
+            "title":"Benny Dayal"
+        },
+        {
+            "image": "vijay.png",
+            "label":"Bollywood",
+            "title":"Vijay Yesudas"
+        },
+        {
+            "image": "andrea.png",
+            "label":"folk",
+            "title":"Andrea Jeremiah"
+        },
+        {
+            "image": "shilpa.png",
+            "label":"folk",
+            "title":"Shilpa Rao"
+        }
+    ]
+}
