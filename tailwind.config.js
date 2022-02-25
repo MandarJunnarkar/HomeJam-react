@@ -17,11 +17,14 @@ module.exports = {
 
       spacing:{
         '268': '268px',
-        '387': '387px'
+        '387': '387px',
+        '360': '360px',
+        '248': '248px'
       }
     },
     fontFamily:{
-      'libre-baskerville': ['Libre Baskerville', 'serif']
+      'libre-baskerville': ['Libre Baskerville', 'serif'],
+      'quattrocento': ['Quattrocento', 'serif']
     }
   },
   plugins: [],

@@ -43,5 +43,25 @@
             "label":"folk",
             "title":"Shilpa Rao"
         }
+    ],
+    "Reviews":[
+        {
+            "image": "hellen.png",
+            "name": "Hellen Jummy",
+            "state": "Palo Alto, CA",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae in donec in nisi vitae. Vestibulum pellentesque eget laoreet adipiscing. "
+        },
+        {
+            "image": "isaac.png",
+            "name": "Isaac Oluwatemilorun",
+            "state": "Palo Alto, CA",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae in donec in nisi vitae. Vestibulum pellentesque eget laoreet adipiscing. "
+        },
+        {
+            "image": "hellen2.png",
+            "name": "Hellen Jummy",
+            "state": "Palo Alto, CA",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae in donec in nisi vitae. Vestibulum pellentesque eget laoreet adipiscing. "
+        }
     ]
 }

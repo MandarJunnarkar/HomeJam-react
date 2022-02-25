@@ -10,14 +10,15 @@ const Elements = () => {
   };
 
   return (
-    <div className="flex justify-between px-16 mt-72 overflow-x-auto">
+    <div className="flex justify-between mt-32 lg:px-16 lg:mt-72 overflow-x-auto w-full gap-5">
       {Data.elements.map((data, index) => {
         return (
           <div key={index} id={index}
             onClick={handleActive}
             className={`rounded-full h-40 w-40 border hover:border-sky-500 hover:border-4 flex flex-col text-white justify-center items-center ${
-              isactive === index ? `border-2 border-purple-300` : `border-gray-400`
+              isactive === index ? `border-2 border-pink-400` : `border-gray-400`
             }`}
+            style={{minWidth: '10rem', minHeight: '10rem'}}
           >
             <h1 className={`${isactive === index? `text-blue-500`: `text-white`}`}>
               <i className={`bi bi-${data.icon}`}></i>
